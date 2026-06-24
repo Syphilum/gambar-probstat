@@ -10,3 +10,6 @@ IRdisplay::display_png(file = "graf.png")
 ```
 
 - ganti "nama_file" dengan foto yang sesuai dengan soal
+
+
+### WARNING!! repo ini bakal di hapus pada 26 Juni 2026 00.00 AM
