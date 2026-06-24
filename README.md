@@ -1,4 +1,4 @@
-##How to use
+## How to use
 - masukkan code ini ke terminal di soal:
 ```
 url <- "https://raw.githubusercontent.com/Syphilum/gambar-probstat/main/nama_file.png"
